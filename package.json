@@ -1,0 +1,23 @@
+{
+  "name": "patient-api",
+  "version": "1.0.0",
+  "description": "A simple api that contains the basic information of patients.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/valentinesamuel/patient-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/valentinesamuel/patient-api/issues"
+  },
+  "homepage": "https://github.com/valentinesamuel/patient-api#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
